@@ -6,3 +6,9 @@
 
 * Format: DIN A5 (148 × 210 mm)
 * Farbprofil: CMYK
+
+## Lizenz
+
+* [GPL v2 oder spätere](https://wordpress.org/about/license/)
+* WordPress ist eine eingetragene Marke der [WordPress Foundation](http://wordpressfoundation.org/trademark-policy/).
+
