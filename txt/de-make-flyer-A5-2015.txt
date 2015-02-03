@@ -1,0 +1,43 @@
+Mach mit bei WordPress!
+
+DOCS/DOKUMENTATION
+Verbessere die Dokumentation, inklusive dem Codex, den Handbüchern und vielem mehr
+
+COMMUNITY
+Bringe Menschen zusammen auf Events wie Meetups und WordCamps (…) und mache Öffentlichkeitsarbeit.
+
+VIDEO
+Hilf bei der Moderation von eingereicht- en Videos, Nachbearbeitung und der Transkription/Erstellung von Untertiteln
+
+PLUGINS
+Halte das Plugin-Verzeichnis sicher durch das Überprüfen von Quelltexten
+
+CORE
+Wirke bei der Software mit, die einen Großteil des Webs antreibt
+Gesucht: Enthusiastische AnwenderInnen mit Wissen in Programmierung, Testen, Design, UX und App-Erstellung
+
+SUPPORT
+Beantworte Fragen in den Support-Foren und Slack, um anderen WordPress-NutzerInnen zu helfen
+Pro-Tipp: Starte mit einfachen Fragen und lerne dazu.
+
+TRAINING
+Erstelle Lehrpläne für kostenlose WordPress-Trainings
+
+REDE UND TEILE
+Teile dein Wissen mit anderen: Sprich auf Events und lehre auf Workshops
+
+THEMES
+Teste eingereichte Themes, um die Qualität des Theme- Verzeichnisses zu verbessern
+
+META
+Hilf mit bei der Infrastruktur, die WordPress.org und WordCamp.org betreibt
+
+BARRIEREFREIHEIT
+Mache WordPress und alles auf WordPress.org zugänglich für alle Menschen
+Wirke bei der Software mit, die einen Großteil des Webs antreibt
+Gesucht: Enthusiastische AnwenderInnen mit Wissen in Programmierung, Testen, Design, UX und App-Erstellung
+
+POLYGLOTS/ÜBERSETZUNG
+Übersetze all die vielen Dinge!
+
+make.wordpress.org
