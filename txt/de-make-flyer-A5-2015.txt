@@ -1,23 +1,23 @@
 Mach mit bei WordPress!
 
-DOCS/DOKUMENTATION
-Verbessere die Dokumentation, inklusive dem Codex, den Handbüchern und vielem mehr
+DOKUMENTATION
+Verbessere die Dokumentation, inklusive beim Codex, den Handbüchern und vielem mehr
 
 COMMUNITY
-Bringe Menschen zusammen auf Events wie Meetups und WordCamps (…) und mache Öffentlichkeitsarbeit.
+Bringe Menschen zusammen durch Events wie Meetups und WordCamps und mache Öffentlichkeitsarbeit.
 
 VIDEO
-Hilf bei der Moderation von eingereicht- en Videos, Nachbearbeitung und der Transkription/Erstellung von Untertiteln
+Hilf beim Moderieren von eingereich- ten Videos, bei der Nachbearbeitung, Transkription und Untertitelung
 
 PLUGINS
 Halte das Plugin-Verzeichnis sicher durch das Überprüfen von Quelltexten
 
 CORE
 Wirke bei der Software mit, die einen Großteil des Webs antreibt
-Gesucht: Enthusiastische AnwenderInnen mit Wissen in Programmierung, Testen, Design, UX und App-Erstellung
+Gesucht: Enthusiastische AnwenderInnen für Programmierung, Tests, Design, UX und Apps
 
 SUPPORT
-Beantworte Fragen in den Support-Foren und Slack, um anderen WordPress-NutzerInnen zu helfen
+Beantworte Fragen in den Support-Foren und im Slack, um anderen WordPress-NutzerInnen zu helfen
 Pro-Tipp: Starte mit einfachen Fragen und lerne dazu.
 
 TRAINING
@@ -27,17 +27,16 @@ REDE UND TEILE
 Teile dein Wissen mit anderen: Sprich auf Events und lehre auf Workshops
 
 THEMES
-Teste eingereichte Themes, um die Qualität des Theme- Verzeichnisses zu verbessern
+Prüfe eingereichte Themes, um die hohe Qualität des Theme- Verzeichnisses zu erhalten
 
 META
 Hilf mit bei der Infrastruktur, die WordPress.org und WordCamp.org betreibt
+[Erster Zeilenumbruch besser gleich nach dem Komma. Dann flattert der Text nicht so sehr.]
 
 BARRIEREFREIHEIT
-Mache WordPress und alles auf WordPress.org zugänglich für alle Menschen
-Wirke bei der Software mit, die einen Großteil des Webs antreibt
-Gesucht: Enthusiastische AnwenderInnen mit Wissen in Programmierung, Testen, Design, UX und App-Erstellung
+Mache WordPress und alles auf WordPress.org zugänglich für alle Menschen
 
-POLYGLOTS/ÜBERSETZUNG
-Übersetze all die vielen Dinge!
+ÜBERSETZUNG
+Übersetze all die vielen Dinge!
 
 make.wordpress.org
