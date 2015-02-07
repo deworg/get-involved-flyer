@@ -35,7 +35,7 @@ Hilf mit bei der Infrastruktur, die WordPress.org und WordCamp.org betreibt
 BARRIEREFREIHEIT
 Mache WordPress und alles auf WordPress.org zugänglich für alle Menschen
 
-MEHRSPRACHLER
+ÜBERSETZUNG
 Übersetze einfach alles!
 
 make.wordpress.org
