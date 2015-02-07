@@ -1,7 +1,7 @@
 Mach mit bei WordPress!
 
 DOKUMENTATION
-Verbessere die Dokumentation, inklusive des Codex, der Handbüchern und vielem mehr
+Verbessere die Dokumentation, inklusive des Codex, der Handbücher und vielem mehr
 
 COMMUNITY
 Bringe Menschen zusammen durch Events wie Meetups und WordCamps und mache Öffentlichkeitsarbeit.
@@ -35,7 +35,7 @@ Hilf mit bei der Infrastruktur, die WordPress.org und WordCamp.org betreibt
 BARRIEREFREIHEIT
 Mache WordPress und alles auf WordPress.org zugänglich für alle Menschen
 
-Mehrsprachler
-Übersetze alles!
+MEHRSPRACHLER
+Übersetze einfach alles!
 
 make.wordpress.org
