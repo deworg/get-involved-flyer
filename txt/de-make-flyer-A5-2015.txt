@@ -4,7 +4,7 @@ DOKUMENTATION
 Verbessere die Dokumentation, inklusive des Codex, der Handbücher und vielem mehr
 
 COMMUNITY
-Bringe Menschen zusammen durch Events wie Meetups und WordCamps und mache Öffentlichkeitsarbeit.
+Bringe Menschen durch Events wie Meetups und WordCamps zusammen und leiste Öffentlichkeitsarbeit
 
 VIDEO
 Hilf beim Moderieren von eingereichten Videos, bei der Nachbearbeitung, Transkription und Untertitelung
@@ -27,7 +27,7 @@ REDE UND TEILE
 Teile dein Wissen mit anderen: Sprich auf Events und lehre auf Workshops
 
 THEMES
-Prüfe eingereichte Themes, um die Qualität des Theme- Verzeichnisses zu erhalten
+Prüfe eingereichte Themes, um die Qualität des Theme-Verzeichnisses zu erhalten
 
 META
 Hilf mit bei der Infrastruktur, die WordPress.org und WordCamp.org betreibt
